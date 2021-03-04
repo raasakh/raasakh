@@ -18,7 +18,7 @@ const me = {
     technologies: ["React", "React Native", "Next.js", "Redux",
     "Redux Saga", "Storybook.js", "Styled Components", "Jest"],
     editor: "Visual Studio Code",
-    os: "MacOS"
+    os: "macOS"
 };
 ```
 
