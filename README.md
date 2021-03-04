@@ -17,7 +17,7 @@ const me = {
     code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
     technologies: ["React", "React Native", "Next.js", "Redux",
     "Redux Saga", "Storybook.js", "Styled Components", "Jest"],
-    editor: "Visual Studio Code"
+    editor: "Visual Studio Code",
     os: "MacOS"
 };
 ```
