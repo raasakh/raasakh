@@ -1,10 +1,10 @@
-<h2>Hi, I'm Jelena Manot! 👋</h2>
+### Hi, I'm Jelena Manot! 👋
 <img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://tx.group/en">TX Group</a><br/>
 
 [![Linkedin: jelenamanot](https://img.shields.io/badge/-jelenamanot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jelenamanot/)](https://www.linkedin.com/in/jelenamanot/)
 
-### About me...
+#### About me...
 
 ```javascript
 const me = {
