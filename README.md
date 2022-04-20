@@ -1,5 +1,5 @@
 ### Hi, I'm Alexandr Ryzhikh! 👋
-<img align='right' src="./1095.png" width="200">
+<img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://raasakh.github.io">RAASAKH Group</a><br/>
 
 [![Linkedin: raasakh](https://img.shields.io/badge/-raasakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raasakh/)](https://www.linkedin.com/in/raasakh/)
