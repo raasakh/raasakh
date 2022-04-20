@@ -1,19 +1,19 @@
-### Hi, I'm Jelena Manot! 👋
+### Hi, I'm Alexandr Ryzhikh! 👋
 <img align='right' src="./image.png" width="200">
 <p><em>Frontend Engineer @ <a href="https://tx.group/en">TX Group</a><br/>
 
-[![Linkedin: jelenamanot](https://img.shields.io/badge/-jelenamanot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jelenamanot/)](https://www.linkedin.com/in/jelenamanot/)
+[![Linkedin: raasakh](https://img.shields.io/badge/-jelenamanot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raasakh/)](https://www.linkedin.com/in/raasakh/)
 
 #### About me...
 
 ```javascript
 const me = {
-    fullName: "Jelena Manot",
-    from: "Belgrade, Serbia",
-    bornIn: 1995,
+    fullName: "Alexandr Ryzhikh",
+    from: "DV, Russia",
+    bornIn: 1979,
     role: "Frontend Engineer",
     workingAt: "TX Services",
-    startedCodingIn: 2017,
+    startedCodingIn: 2013,
     code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
     technologies: ["React", "React Native", "Next.js", "Redux",
     "Redux Saga", "Storybook.js", "Styled Components", "Jest"],
