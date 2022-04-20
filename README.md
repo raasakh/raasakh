@@ -9,7 +9,7 @@
 ```javascript
 const me = {
     fullName: "Alexandr Ryzhikh",
-    from: "DV, Russia",
+    from: "Russia",
     bornIn: 1979,
     role: "Frontend Engineer",
     workingAt: "TX Services",
