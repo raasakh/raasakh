@@ -5,15 +5,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/raasakh)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/raasakh)
 
-### Hi, I'm Alexandr Ryzhikh! 👋
+### Glad to see you here! 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=raasakh.visitor-badge)
 <img align='right' src="./image.png" width="200">
 👨🏼‍💻 Software Engineer @ Futureswap 🚀 ⛓ Blockchain 💎 Web3 💻
 <p><em>Frontend Engineer @ <a href="https://raasakh.github.io">RAASAKH Group</a><br/>
 
-[![Linkedin: raasakh](https://img.shields.io/badge/-raasakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raasakh/)](https://www.linkedin.com/in/raasakh/)
-    
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=raasakh.visitor-badge)
-    <img align='right' src="./image.png" width="200">
 
 I am a full-stack software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
 
