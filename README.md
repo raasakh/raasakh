@@ -7,8 +7,8 @@
 
 ### Glad to see you here! 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=raasakh.visitor-badge)
 <img align='right' src="./image.png" width="200">
-👨🏼‍💻 Software Engineer @ Futureswap 🚀 ⛓ Blockchain 💎 Web3 💻
-<p><em>Frontend Engineer @ <a href="https://raasakh.github.io">RAASAKH Group</a><br/>
+<!-- 👨🏼‍💻 Software Engineer @ Futureswap 🚀 ⛓ Blockchain 💎 Web3 💻
+<p><em>Frontend Engineer @ <a href="https://raasakh.github.io">RAASAKH Group</a><br/> -->
 
 
 I am a full-stack software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
