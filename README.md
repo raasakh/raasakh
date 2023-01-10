@@ -8,12 +8,7 @@
 ---
 ### Hi, I'm Alexandr Ryzhikh! 👋
 <img align='right' src="./image.png" width="200">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raasakh/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://raasakh.github.io)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/raasakh)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/raasakh)
-
----
+👨🏼‍💻 Software Engineer @ Futureswap 🚀 ⛓ Blockchain 💎 Web3 💻
 <p><em>Frontend Engineer @ <a href="https://raasakh.github.io">RAASAKH Group</a><br/>
 
 [![Linkedin: raasakh](https://img.shields.io/badge/-raasakh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raasakh/)](https://www.linkedin.com/in/raasakh/)
