@@ -17,7 +17,7 @@ My mission is to help build the open and decentralized economy through web3.
 
 
 - 🚀 Software Engineer @ Futureswap👨🏼‍💻  ⛓ Blockchain 💎 Web3 💻
-- ⛓ Blockchain development on Ethereum, Waves, Polygon, Tron, BNB Chain and Solana (and many more).
+- ⛓ Blockchain development on Ethereum, Waves, Polygon, Tron, BNB Chain and many more.
 
 #### About me...
 
@@ -56,3 +56,4 @@ const me = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
