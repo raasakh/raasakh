@@ -11,15 +11,13 @@
 <p><em>Frontend Engineer @ <a href="https://raasakh.github.io">RAASAKH Group</a><br/>
 
 
-<!-- I am a full-stack software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
+I am a full-stack software engineer that specializes in blockchain development. I love sports, reading, traveling, and programming.
 
 My mission is to help build the open and decentralized economy through web3.
 
 
 - 🚀 Software Engineer @ Futureswap👨🏼‍💻  ⛓ Blockchain 💎 Web3 💻
 - ⛓ Blockchain development on Ethereum, Waves, Polygon, Tron, BNB Chain and Solana (and many more).
-    
---- -->
 
 #### About me...
 
